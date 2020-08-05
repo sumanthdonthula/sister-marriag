@@ -9035,7 +9035,7 @@ body {
   background: url("../images/final.jpg") no-repeat center center;
   background-size: cover;
   background-position: 50%;
-  height: auto;
+  min-height: 480px;
   width:200px;
 }
 
