@@ -9034,8 +9034,9 @@ body {
 .ww-home-page {
   background: url("../images/final.jpg") no-repeat center center;
   background-size: cover;
-  background-position: 70%;
-  height: 100vh;
+  background-position: 50%;
+  height: auto;
+  width:auto;
   min-height: 480px;
 }
 
